@@ -91,7 +91,7 @@ Contributions to the organization are defined as any of following activities per
 - Answering user questions in the StreamsHub Slack channels
 - Giving talks about StreamsHub and its sub-projects at conferences or meetups
 
-Before a vote is called the maintainer or component owner in question should be contacted (via the email address defined in the relevant MAINTAINERS or COMPONENT-OWNERS files) to check whether they wish to remain active or whether they have a valid reason (such as a medical issue) for their inactivity.
+Before a vote is called the maintainer or component owner in question should be contacted (via the email address defined in the relevant MAINTAINERS or COMPONENT-OWNERS files) to check whether they wish to remain active or whether they have a valid reason (such as a medical issue or extended leave) for their inactivity.
 
 ## Sub-project management
 
