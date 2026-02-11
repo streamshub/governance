@@ -122,6 +122,11 @@ If the PR author is a maintainer, this counts as a vote.
 PRs which affect only a single sub-project/component can be approved by at least one positive maintainer vote and one positive vote from an owner of the given sub-project/component.
 If the PR author is a maintainer or an owner of given sub-project/component, this counts as a vote.
 
+#### Automatically merging PRs for dependency updates
+
+It is common for repositories to implement automated dependency updates using tools such as Dependabot.
+In order to avoid unnecessary manual work for maintainers, PRs created by such tools which only update dependencies and do not change any other code, can be automatically merged if they pass all the configured tests and other CI checks.
+
 ### Lazy consensus rules
 
 Lazy consensus votes use +1, 0, -1 votes and their fractions, where:
