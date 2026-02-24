@@ -81,9 +81,8 @@ The process for reverting from an emeritus component owner to an active componen
 ### Maintainership and Component ownership timeout
 
 If a maintainer or component owner has not made any contributions to the organization for a period of 6 months, any other maintainer may propose that they be moved to the corresponding emeritus status.
-The voting rules for removal are the same as for removing maintainers or component owners.
 
-Contributions to the organization are defined as any of following activities performed on any of the StreamsHub organization's GitHub repositories:
+Contributions to the organization are defined as any of following activities performed on any of the StreamsHub organization's GitHub repositories or official communication channels:
 
 - Opening issues or PRs
 - Commenting on issues or PRs
@@ -165,11 +164,24 @@ With the exception of maintainers and component owners marking themselves as eme
 
 #### Votes on adding or removing maintainers
 
-Votes to add or remove a maintainer require an **explicit majority** of **maintainers**.
+Votes to add or remove a maintainer require an **explicit majority** of **maintainers**. 
+
+#### Votes on moving a maintainer to emeritus status
+
+Where a maintainer is deemed to be active (as per the definition in #maintainership-and-component-owner-timeout) they **cannot** be moved to emeritus status by anyone other than themselves.
+
+Votes to move a timed out maintainer to the emeritus maintainer status requires an **explicit majority** of **maintainers**.
+However, in that explicit case, the maintainer in question should **not** be counted in the total number of maintainers used to calculate the votes required for the vote to be valid and pass.
 
 #### Votes on adding or removing component owners
 
 Votes to add or remove a component owner require an **explicit majority** of **maintainers**.
+
+#### Votes on moving a component owner to emeritus status
+
+Where a component owner is deemed to be active (as per the definition in #maintainership-and-component-owner-timeout) they **cannot** be moved to emeritus status by anyone other than themselves.
+
+Votes to move a timed out component owner to the emeritus component owner status require an **explicit majority** of **maintainers**. 
 
 #### Votes on proposals
 
