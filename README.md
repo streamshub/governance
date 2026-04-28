@@ -5,6 +5,7 @@
 This repository contains the governance documents for the StreamsHub organization and its sub-projects:
 
 * [Governance Policy](./GOVERNANCE.md)
+* [Contributing Guide](./CONTRIBUTING.md)
 * [List of Maintainers](./MAINTAINERS)
 * [List of Component Owners](./COMPONENT-OWNERS)
 * [List of Emeritus Maintainers and Component Owners](./EMERITUS)

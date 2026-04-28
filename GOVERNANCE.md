@@ -2,6 +2,8 @@
 
 This document defines the governance rules for the StreamsHub organization.
 
+For information on contributing to StreamsHub, including the AI contribution policy, see the [Contributing Guide](CONTRIBUTING.md).
+
 ## Organization structure
 
 The StreamsHub organization contains multiple sub-projects. 
