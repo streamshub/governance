@@ -8,6 +8,32 @@ This document covers organization-wide contribution policies that apply across a
 
 For information on governance, roles, and voting, see the [Governance Policy](./GOVERNANCE.md).
 
+## Developer Certificate Of Origin
+
+The [Developer Certificate of Origin (DCO)](https://developercertificate.org/) is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project.
+
+Contributors to the StreamsHub projects sign-off that they adhere to these requirements by adding a Signed-off-by line to commit messages.
+
+```shell
+This is my commit message
+
+Signed-off-by: John Doe <JohnDoe@somewhere.org>
+```
+
+Git even has a -s command line option to append this automatically to your commit message:
+
+```shell
+git commit -s -m 'This is my commit message'
+```
+
+If you have already made a commit and forgot to include the sign-off, you can amend your last commit to add the sign-off with the following command, which can then be force pushed.
+
+```shell
+git commit --amend -s
+```
+
+DCO will be enforced by individual StreamsHub projects via CI checks.
+
 ## AI Contribution Policy
 
 ### Overview
