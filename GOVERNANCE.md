@@ -170,7 +170,7 @@ Votes to add or remove a maintainer require an **explicit majority** of **mainta
 
 #### Votes on moving a maintainer to emeritus status
 
-Where a maintainer is deemed to be active (as per the definition in #maintainership-and-component-owner-timeout) they **cannot** be moved to emeritus status by anyone other than themselves.
+Where a maintainer is deemed to be active (as per the definition in [Maintainership and Component Ownerership Timeout](#maintainership-and-component-ownership-timeout)) they **cannot** be moved to emeritus status by anyone other than themselves.
 
 Votes to move a timed out maintainer to the emeritus maintainer status requires an **explicit majority** of **maintainers**.
 However, in that explicit case, the maintainer in question should **not** be counted in the total number of maintainers used to calculate the votes required for the vote to be valid and pass.
@@ -181,7 +181,7 @@ Votes to add or remove a component owner require an **explicit majority** of **m
 
 #### Votes on moving a component owner to emeritus status
 
-Where a component owner is deemed to be active (as per the definition in #maintainership-and-component-owner-timeout) they **cannot** be moved to emeritus status by anyone other than themselves.
+Where a component owner is deemed to be active (as per the definition in [Maintainership and Component Ownerership Timeout](#maintainership-and-component-ownership-timeout)) they **cannot** be moved to emeritus status by anyone other than themselves.
 
 Votes to move a timed out component owner to the emeritus component owner status require an **explicit majority** of **maintainers**. 
 
